@@ -62,7 +62,3 @@ After all four stages:
 
 - The dataset is clean, normalized, and reduced.
 - Final dataset saved as: `feature_engineered_titanic.csv`.
-
----
-
-## 📂 Folder Structure
